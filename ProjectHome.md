@@ -1,0 +1,1 @@
+A collection of actionscript libraries developed for use within Flash/ Flex & AIR applications. Libraries include a SQLite Syncing Engine for use with Adobe AIR
